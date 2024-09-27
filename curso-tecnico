@@ -1,0 +1,21 @@
+<Doctype html>
+  <head>
+    <link rel="stylesheet"type="style.css"href=style.css">
+    <meta charset="uft-8">
+    <title>desenvolvimento</title>
+  </head>
+      <body>
+        <h1></h1>
+        <img src=""widht=""height=""></img>
+        <p><strong>testa novas maneiras de desenvolver com novas funcoes e novas tecnoligia</strong></p>
+        <audio controls>
+            <source src=""type="audio.mp3"><source>
+        </audio>
+          <form>
+            <print>"XXXXX"</print>
+            <print>"X   X"</print>
+            <print>"X   X"</print>
+            <print>"XXXXX"</print>
+          </form>
+      </body>
+</html>
