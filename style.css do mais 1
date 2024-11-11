@@ -1,0 +1,26 @@
+div {
+  text-align: center;
+  font-size: 30px;
+  background-color:blue;
+}
+body {
+  background-color:black;
+  color:red;
+  
+}
+.page1 {
+  background-color:yellow;
+}
+.page2 {
+  background-color:green;
+}
+interface {
+  height: 100vh;
+}
+section {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+  color: white; 
+}
